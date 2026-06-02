@@ -14,13 +14,11 @@ This project focuses on passenger survival analysis, fare distribution, demograp
 * Tableau
 * CSV Dataset
 
----
 
 ## Flow of Project
 
 **Data Collection → Data Cleaning → Feature Engineering → Statistical Analysis → Data Visualization (Matplotlib & Seaborn) → Data Export (CSV) → Tableau Dashboard Creation → Survival Insight Reporting**
 
----
 
 # Project Features
 
@@ -38,7 +36,6 @@ Dataset includes:
 * Survival Status
 * Age Group
 
----
 
 ## 2. Data Cleaning & Preparation
 
@@ -48,7 +45,6 @@ Dataset includes:
 * Prepared dataset for analysis and visualization
 * Created structured dataset for Tableau dashboarding
 
----
 
 ## 3. Feature Engineering
 
@@ -64,7 +60,6 @@ Created additional analytical features:
 
 Performed categorical encoding and data transformation where required.
 
----
 
 ## 4. Statistical Analysis
 
@@ -82,7 +77,6 @@ Analyzed:
 * Age Distribution
 * Survival Trends Across Categories
 
----
 
 ## 5. Business (Passenger) Analytics
 
@@ -109,7 +103,6 @@ Conducted multiple passenger behavior analyses:
 * Embarkation port analysis
 * Passenger class comparison
 
----
 
 ## 6. Data Visualization (Matplotlib & Seaborn)
 
@@ -125,7 +118,6 @@ Generated multiple visualizations including:
 
 Saved visualizations for reporting and dashboard development.
 
----
 
 ## 7. Data Export for Visualization Tools
 
@@ -133,7 +125,6 @@ Saved visualizations for reporting and dashboard development.
 * Prepared dataset for Tableau integration
 * Ensured compatibility for dashboard creation
 
----
 
 ## 8. Tableau Dashboard Integration
 
@@ -167,7 +158,6 @@ Analyzes survival differences between male and female passengers.
 
 Shows passenger age patterns using a histogram.
 
----
 
 ## 9. Insight Generation
 
@@ -183,7 +173,6 @@ The analysis provided several important insights:
 
 These insights help understand the factors influencing passenger survival aboard the Titanic.
 
----
 
 # Project Outcome
 
